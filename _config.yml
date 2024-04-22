@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "PARK JUNG TAE"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "양심 있는 개발자"
-  location         : "Seoul "
+  name             : "Kim Chang Wook"
+  avatar           : "image/wook2.jpeg "
+  bio              : "긍정긍정긍정욱"
+  location         : "Anyang "
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:your.YUJ@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
