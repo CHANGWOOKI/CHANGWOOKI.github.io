@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "KIM CHANG WOOK"
+  name             : "KIM CHANMG WOOK"
   avatar           : "image/wook2.jpg "
   bio              : "긍정긍정긍정욱"
   location         : "Anyang "
-  email            :
+  email            : "yj6245@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "yj6245@gmail.com"
+      # url: "mailto:your.YUJ@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
